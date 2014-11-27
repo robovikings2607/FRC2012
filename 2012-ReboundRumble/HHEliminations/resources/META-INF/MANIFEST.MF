@@ -1,0 +1,6 @@
+MIDlet-Name: ForWhat
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: ReboundRumbleCompetitionBot, ,  edu.archwood.frc2607comp.ReboundRumbleCompetitionBot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
